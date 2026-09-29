@@ -1,5 +1,7 @@
 # Market Analytics & Risk Engine
 
+![Tests](https://github.com/alvarozanni/market-risk-pipeline/actions/workflows/ci.yml/badge.svg)
+
 Pipeline de procesamiento cuantitativo, persistencia de series temporales y API REST orientada al análisis de riesgo financiero para activos de mercado.
 
 ## 🚀 Arquitectura del Sistema
